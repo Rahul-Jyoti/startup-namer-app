@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Tue Sep 17 16:24:16 IST 2019
+7.path=flutter_assets/FontManifest.json
+2.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/transforms/mergeJniLibs/profile/0
+5.set=ASSET
+0.path=lib/arm64-v8a/libflutter.so
+2.baseType=DIRECTORY
+3.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/merged_assets/profile/mergeProfileAssets/out
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=flutter_assets/LICENSE
+4.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/transforms/dexMerger/profile/0
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=lib/arm64-v8a/libapp.so
+5.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/merged_assets/profile/mergeProfileAssets/out
+4.set=DEX
+3.path=flutter_assets/AssetManifest.json
+6.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/merged_assets/profile/mergeProfileAssets/out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes.dex
+7.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/merged_assets/profile/mergeProfileAssets/out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=flutter_assets/fonts/MaterialIcons-Regular.ttf
+0.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/transforms/mergeJniLibs/profile/0
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+1.base=/home/rj/flutter_apps/startup_namer/build/app/intermediates/merged_assets/profile/mergeProfileAssets/out
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
